@@ -1,0 +1,17 @@
+body {
+  margin: 0;
+}
+.App {
+  font-family: sans-serif;
+}
+.header {
+  background-color: rgb(40, 62, 74);
+  padding: 20px;
+  margin-bottom: 20px;
+  display: flex;
+  align-items: center;
+}
+.header > h2 {
+  margin: 0;
+  color: rgb(85, 191, 219);
+}
